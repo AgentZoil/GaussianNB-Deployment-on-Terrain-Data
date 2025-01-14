@@ -9,8 +9,7 @@ A machine learning project that uses the Gaussian Naive Bayes classifier to clas
 ├── class_vis.py           # Visualization utilities for decision boundaries
 ├── prep_terrain_data.py   # Data generation and preprocessing
 ├── studentMain.py         # Main script to train and visualize the classifier
-├── requirements.txt       # Python dependencies
-├── test.png               # Visualization of decision boundary
+├── test.png               # Visualization of decision boundary outcome
 └── README.md              # Project documentation
 ```
 
@@ -23,11 +22,9 @@ A machine learning project that uses the Gaussian Naive Bayes classifier to clas
    cd GaussianNB-Deployment-on-Terrain-Data
    ```
 
-2. **Install Dependencies:**
+2. **Install Dependencies**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 3. **Run the Project:**
 
