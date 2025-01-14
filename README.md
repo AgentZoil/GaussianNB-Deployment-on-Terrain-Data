@@ -53,6 +53,10 @@ A machine learning project that uses the Gaussian Naive Bayes classifier to clas
 
 ![Decision Boundary](test.png)
 
+### NB Accuracy: 0.884
+
+
+
 ## Technologies Used
 
 - Python 3

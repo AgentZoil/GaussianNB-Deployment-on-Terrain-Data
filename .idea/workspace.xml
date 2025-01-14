@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26cf33f8-bd43-4cad-97ad-379418281c79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GaussianNB Deployment on Terrain Data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassifyNB.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassifyNB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/studentMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AgentZoil"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AgentZoil/GaussianNB-Deployment-on-Terrain-Data.git",
+    "accountId": "641afd14-f3aa-4bf1-aa86-9cdac5a802b2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -70,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736812544743</updated>
       <workItem from="1736812546082" duration="2546000" />
-      <workItem from="1736815125566" duration="1274000" />
+      <workItem from="1736815125566" duration="4452000" />
     </task>
     <servers />
   </component>
@@ -78,7 +88,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GaussianNB_Deployment_on_Terrain_Data$studentMain.coverage" NAME="studentMain Coverage Results" MODIFIED="1736815626783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GaussianNB_Deployment_on_Terrain_Data$studentMain.coverage" NAME="studentMain Coverage Results" MODIFIED="1736819480279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GaussianNB_Deployment_on_Terrain_Data$class_vis.coverage" NAME="class_vis Coverage Results" MODIFIED="1736815621695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
